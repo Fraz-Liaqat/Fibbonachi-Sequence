@@ -1,0 +1,10 @@
+Description:
+Week 1:
+In this file, we wrote two programs: First one calculates nth Fibonacci number iteratively and second one displays  Fibonacci numbers till n.
+Week 2:
+This file contains a function which calculates nth fibonacci numbers recursively and also displays  Fibonacci numbers till n. We also compared it with iterative approach to match outputs.
+Week 3:
+In this c++ program we wrote a function that takes input from user 'e' or 'o'  and  n. Incase of 'e' it displays 
+even Fibonacci  numbers till n and for 'o' it displays odd Fibonacci  numbers till n.
+Week 4:
+In this program we used memorization method(using Array) to calculate nth Fibonacci number recursively. This method effectively reduces redundant Fibonacci calculations by storing each Fibonacci numbers in an array, avoiding repeated calls and improving efficiency.
